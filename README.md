@@ -7,7 +7,7 @@ Features
 
 Maps Joy-Con inputs to Xbox 360 controller buttons, sticks, and triggers.
 Optimized for EA Sports FC 25 with intuitive controls for movement, passing, shooting, and more.
-Compatible with shooter games (e.g., Call of Duty, Battlefield) when played offline.
+Compatible with shooter games (e.g., Call of Duty, Battlefield).
 Applies a deadzone (0.15) to eliminate stick drift.
 Reconnects automatically if Joy-Cons disconnect.
 Debug logging for troubleshooting inputs.
@@ -91,15 +91,7 @@ Right-click the game in Steam > Properties > Controller > “Disable Steam Input
 For EA App Games (e.g., FC 25):
 Add the game as a non-Steam game in Steam, then disable Steam Input.
 
-
-Anti-Cheat Warning:
-Disable anti-cheat for offline testing (e.g., rename EAAntiCheat.GameService.exe to .bak for FC 25).
-Use offline mode for shooters to avoid bans, as input mapping may be flagged.
-
-
-
-
-Controls (optimized for FC 25 and shooters):
+Controls:
 
 Left Stick: Player movement.
 Right Stick: Camera/aim.
